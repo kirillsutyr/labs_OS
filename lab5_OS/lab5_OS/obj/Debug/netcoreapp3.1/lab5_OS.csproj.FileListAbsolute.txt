@@ -1,0 +1,11 @@
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.exe
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.deps.json
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.runtimeconfig.json
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.runtimeconfig.dev.json
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.dll
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\bin\Debug\netcoreapp3.1\lab5_OS.pdb
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\obj\Debug\netcoreapp3.1\lab5_OS.csprojAssemblyReference.cache
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\obj\Debug\netcoreapp3.1\lab5_OS.AssemblyInfoInputs.cache
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\obj\Debug\netcoreapp3.1\lab5_OS.AssemblyInfo.cs
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\obj\Debug\netcoreapp3.1\lab5_OS.dll
+C:\Users\Кирилл Сутырь\source\repos\lab5_OS\lab5_OS\obj\Debug\netcoreapp3.1\lab5_OS.pdb
